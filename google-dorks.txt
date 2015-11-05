@@ -5137,4 +5137,4 @@ inurl:”typo3/index.php?u=” -demo
 inurl:”usysinfo?login=true”
 inurl:”utilities/TreeView.asp”
 inurl:”vsadmin/login” | inurl:”vsadmin/admin” inurl:.php|.asp
-inurl:”wvdial.conf” intext:”password”
+inurl:”wvdial.conf” intext:”password”Inurl:.co.ke filetype:pdf
